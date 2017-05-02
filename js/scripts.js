@@ -100,7 +100,7 @@
 
         $(window).load(function(){
         $(".typing").typed({
-            strings: ["I Code.", "I Collaborate.", "I am A Full Stack Engineer.", "I am A Freelancer", "I Live in Silicon Valley."],   
+            strings: ["I Code.", "I Collaborate.", "I am A Full Stack Engineer.", "I am A Freelancer", "I Live in Silicon Valley."],
             typeSpeed: 50
           });
          });
@@ -202,8 +202,8 @@
             maptype: 'ROADMAP',
             markers:[
             {
-            address: "New York",  /* You can change your address from here */
-            html: "<b>Address</b>: <br> Area-2, Rose Area, New York, U.S.A.",   /* You can change display address text from here */
+            address: "San Jose",  /* You can change your address from here */
+            html: "<b>Address</b>: <br> San Jose, California, U.S.A.",   /* You can change display address text from here */
             popup: true
             }
             ]
